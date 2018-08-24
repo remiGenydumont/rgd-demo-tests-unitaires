@@ -1,0 +1,75 @@
+11:52:23.517 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:53:22.240 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:53:47.977 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:54:46.457 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:55:20.153 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:57:12.960 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+12:00:33.333 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+12:00:33.340 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+12:02:00.953 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+12:02:00.959 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+12:02:00.960 [main] INFO  demo_tu.services.CalculServiceTest - Alors j'obtiens le résultat 8
+12:21:33.573 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+12:21:33.579 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+12:21:33.579 [main] INFO  demo_tu.services.CalculServiceTest - Alors j'obtiens le résultat 8
+12:21:33.579 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+12:21:33.579 [main] INFO  demo_tu.services.CalculServiceTest - Alors j'obtiens le résultat 8
+12:23:38.187 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+12:23:38.193 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+12:23:38.193 [main] INFO  demo_tu.services.CalculServiceTest - Alors j'obtiens le résultat 8
+12:23:38.194 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+12:23:38.195 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+12:23:38.195 [main] INFO  demo_tu.services.CalculServiceTest - Alors j'obtiens le résultat 8
+12:23:50.468 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+12:23:50.472 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+12:23:50.472 [main] INFO  demo_tu.services.CalculServiceTest - Alors j'obtiens le résultat 8
+12:23:50.473 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+12:24:18.433 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+12:24:18.441 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+12:24:18.441 [main] INFO  demo_tu.services.CalculServiceTest - Alors j'obtiens le résultat 8
+12:24:18.443 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+12:24:18.446 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+12:25:09.857 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+12:25:09.861 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+12:25:09.861 [main] INFO  demo_tu.services.CalculServiceTest - Alors j'obtiens le résultat 8
+12:25:09.862 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+12:25:09.870 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+12:47:20.476 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+12:47:20.493 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+12:47:45.538 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+12:47:45.552 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+13:06:45.975 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+13:06:45.981 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+13:06:45.982 [main] INFO  demo_tu.services.CalculServiceTest - Alors j'obtiens le résultat 8
+13:06:45.983 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+13:06:45.983 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+13:15:15.777 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+13:15:15.793 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3*4
+13:15:15.793 [main] INFO  demo_tu.services.CalculServiceTest - Alors j'obtiens le résultat 8
+13:15:15.808 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+13:15:15.808 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+13:15:15.808 [main] INFO  demo_tu.services.CalculServiceTest - Alors j'obtiens le résultat 8
+13:16:36.694 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+13:16:36.710 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3*4
+13:16:36.710 [main] INFO  demo_tu.services.CalculServiceTest - Alors j'obtiens une calculException
+13:16:36.726 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+13:16:36.726 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+13:16:36.726 [main] INFO  demo_tu.services.CalculServiceTest - Alors j'obtiens le résultat 8
+13:18:20.870 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+13:18:20.870 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3*4
+13:18:20.870 [main] INFO  demo_tu.services.CalculServiceTest - Alors j'obtiens une calculException
+13:18:20.870 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+13:18:20.870 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+13:18:20.870 [main] INFO  demo_tu.services.CalculServiceTest - Alors j'obtiens le résultat 8
+14:45:26.622 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+14:45:26.630 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3*4
+14:45:26.630 [main] INFO  demo_tu.services.CalculServiceTest - Alors j'obtiens une calculException
+14:45:26.640 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+14:45:26.640 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+14:45:26.640 [main] INFO  demo_tu.services.CalculServiceTest - Alors j'obtiens le résultat 8
+14:46:21.279 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+14:46:21.295 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3*4
+14:46:21.296 [main] INFO  demo_tu.services.CalculServiceTest - Alors j'obtiens une calculException
+14:46:21.297 [main] INFO  demo_tu.services.CalculServiceTest - Etant donné, une instance de la classe CalculService
+14:46:21.297 [main] INFO  demo_tu.services.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+14:46:21.297 [main] INFO  demo_tu.services.CalculServiceTest - Alors j'obtiens le résultat 8
